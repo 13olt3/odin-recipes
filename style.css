@@ -1,0 +1,29 @@
+.link {
+    color: purple;
+    background-color: yellow;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.numbering {
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    font-style: italic;
+
+}
+.tomato {
+    color: green;
+    background-color: red;
+    font-weight: bold;
+}
+.meat {
+    color: rgb(70, 5, 5);
+    background: rgb(189, 134, 134);
+}
+
+.cheese {
+    color: black;
+    background-color: yellow;
+    font-size: 40px;
+}
